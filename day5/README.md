@@ -1,5 +1,6 @@
 # Day 5: Git Security
 
+[GitHub Documentation on Generating a New GPG Key](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
 
 
 ## Git Security Best Practices
